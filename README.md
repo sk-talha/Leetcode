@@ -17,6 +17,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sk-talha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sk-talha/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sk-talha/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/sk-talha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sk-talha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sk-talha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sk-talha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -52,6 +53,11 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sk-talha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sk-talha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sk-talha/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sk-talha/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
