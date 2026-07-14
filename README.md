@@ -21,6 +21,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sk-talha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sk-talha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sk-talha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0867-transpose-matrix](https://github.com/sk-talha/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sk-talha/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
@@ -55,9 +56,11 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sk-talha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sk-talha/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/sk-talha/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sk-talha/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sk-talha/Leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/sk-talha/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
