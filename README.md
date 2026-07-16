@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sk-talha/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0443-string-compression](https://github.com/sk-talha/Leetcode/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +64,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sk-talha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/sk-talha/Leetcode/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/sk-talha/Leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
