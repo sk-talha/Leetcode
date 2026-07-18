@@ -35,6 +35,7 @@
 | [0042-trapping-rain-water](https://github.com/sk-talha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sk-talha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sk-talha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/sk-talha/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sk-talha/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/sk-talha/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sk-talha/Leetcode/tree/master/0443-string-compression) |
 ## Stack
 |  |
@@ -67,5 +69,6 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/sk-talha/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sk-talha/Leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
