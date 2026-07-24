@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/sk-talha/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sk-talha/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sk-talha/Leetcode/tree/master/0050-powx-n) |
+| [0372-super-pow](https://github.com/sk-talha/Leetcode/tree/master/0372-super-pow) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sk-talha/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sk-talha/Leetcode/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/sk-talha/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
