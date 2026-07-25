@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/sk-talha/Leetcode/tree/master/0050-powx-n) |
 | [0372-super-pow](https://github.com/sk-talha/Leetcode/tree/master/0372-super-pow) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sk-talha/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/sk-talha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/sk-talha/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sk-talha/Leetcode/tree/master/0389-find-the-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/sk-talha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
