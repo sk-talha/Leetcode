@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/sk-talha/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sk-talha/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sk-talha/Leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/sk-talha/Leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/sk-talha/Leetcode/tree/master/0372-super-pow) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sk-talha/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/sk-talha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0136-single-number](https://github.com/sk-talha/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sk-talha/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/sk-talha/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sk-talha/Leetcode/tree/master/0389-find-the-difference) |
 ## Array
 |  |
@@ -27,6 +29,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sk-talha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sk-talha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sk-talha/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sk-talha/Leetcode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/sk-talha/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sk-talha/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
@@ -35,6 +38,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sk-talha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sk-talha/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sk-talha/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/sk-talha/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,11 +87,13 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sk-talha/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sk-talha/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sk-talha/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sk-talha/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sk-talha/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sk-talha/Leetcode/tree/master/0389-find-the-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/sk-talha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
