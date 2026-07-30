@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/sk-talha/Leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/sk-talha/Leetcode/tree/master/0372-super-pow) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sk-talha/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/sk-talha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/sk-talha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -34,6 +35,7 @@
 | [0268-missing-number](https://github.com/sk-talha/Leetcode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/sk-talha/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sk-talha/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/sk-talha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sk-talha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/sk-talha/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sk-talha/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/sk-talha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | [0242-valid-anagram](https://github.com/sk-talha/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sk-talha/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sk-talha/Leetcode/tree/master/0389-find-the-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/sk-talha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
