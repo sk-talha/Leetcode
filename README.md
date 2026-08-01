@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sk-talha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sk-talha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sk-talha/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sk-talha/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -55,10 +56,12 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sk-talha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sk-talha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sk-talha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sk-talha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sk-talha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/sk-talha/Leetcode/tree/master/0392-is-subsequence) |
